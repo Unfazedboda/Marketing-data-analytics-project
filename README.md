@@ -9,9 +9,8 @@ The goal was to practice **end-to-end data analysis**: cleaning messy data, dete
 ---
 
 ## 🔧 Tools & Skills
-- **SQL** → queries for segmentation, KPI calculations, anomaly detection.  
-- **Python (pandas, matplotlib, seaborn)** → data cleaning, exploratory analysis, and visualizations.  
-- **Excel** → pivot tables for quick summaries and validation.  
+- **SQL** → queries for segmentation, KPI calculations, anomaly detection.
+- **Power BI** → Data visualisation , Dashboards
 
 ---
 
